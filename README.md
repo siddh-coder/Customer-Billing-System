@@ -140,8 +140,13 @@ Limitations
 Credits
 
 Edit Shop Details and Sales Report - Romir Gupta(BT2024195)
+
 Show Inventory and Show Group      - Aditya Mittal(BT2024188)
+
 Edit Price and Edit Quantity       - Divyanshu Ghosh(IMT2024068)
+
 Add and Delete Inventory           - Devaang Rastogi(BT2024031)
+
 Exit and Testing                   - Mayank Ray(IMT2024052)
+
 Place order and Order History      - Siddharth Brijesh Tripathi(IMT2024011)
