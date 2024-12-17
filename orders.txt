@@ -1,0 +1,52 @@
+Customer Name: Mayank
+Order Date: 28/11/2024 22:06:48
+Orders:
+  Order #1:
+    Product: banana
+    Price: 50
+    Quantity: 7
+  Order #2:
+    Product: potato
+    Price: 30
+    Quantity: 20
+  Order #3:
+    Product: tomato
+    Price: 40
+    Quantity: 50
+  Order #4:
+    Product: cheese
+    Price: 35
+    Quantity: 40
+---------------------------------------
+Customer Name: Sid
+Order Date: 28/11/2024 22:08:22
+Orders:
+  Order #1:
+    Product: potato
+    Price: 30
+    Quantity: 5
+---------------------------------------
+Customer Name: Sid
+Order Date: 28/11/2024 23:21:45
+Orders:
+  Order #1:
+    Product: apple
+    Price: 100
+    Quantity: 9
+---------------------------------------
+Customer Name: s
+Order Date: 28/11/2024 23:24:55
+Orders:
+  Order #1:
+    Product: apple
+    Price: 100
+    Quantity: 9
+---------------------------------------
+Customer Name: sid
+Order Date: 28/11/2024 23:32:30
+Orders:
+  Order #1:
+    Product: apple
+    Price: 100
+    Quantity: 2
+---------------------------------------
